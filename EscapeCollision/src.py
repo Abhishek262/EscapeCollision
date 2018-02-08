@@ -510,10 +510,7 @@ def fuel_over():
 
         pygame.display.update()
         clock.tick(15)
-@staticmethod
-def Button(onclick,function)
-           def 
-    
+
 
 def car(x,y):
 
