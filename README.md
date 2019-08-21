@@ -1,2 +1,2 @@
 # EscapeCollision
-Block Dodging game
+Simple block dodging game made using pygame. Multiplayer against AI is wonky....
