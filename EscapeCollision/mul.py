@@ -37,10 +37,10 @@ class Health:
 
 class color:
 
-    red =(255,0,0)
+    red =(254,0,0)
     white = (255,255,255)
     black= (0,0,0)
-    grey = (195,195,195)
+    grey = (194,194,194)
     black = (0,0,0)
     reddish  = (200,0,0)
     yellow= (247,217,9)
